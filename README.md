@@ -75,4 +75,14 @@ You will see the agents interacting in real-time in your terminal, including the
 
 
 
+# Demo / Example Output
+
+Here’s an example of the workflow in action.
+
+<img width="908" height="362" alt="1" src="https://github.com/user-attachments/assets/0c30a482-007a-4dbc-910d-5f3839ad1a4e" />
+
+
+<img width="785" height="373" alt="2" src="https://github.com/user-attachments/assets/91841fff-028b-416a-b79a-d85a854ccdde" />
+
+
 
