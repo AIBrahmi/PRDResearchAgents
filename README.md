@@ -47,8 +47,9 @@ Next, create and activate a virtual environment. This isolates the project's dep
     ````
 
 Install the required Python packages using the `requirements.txt` file:
-```sh
-pip install -r requirements.txt
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 ### 3. Configuration
 
@@ -57,16 +58,18 @@ The script needs your Google AI API key to function.
 Create a new file named .env in the root directory of the project.
 
 Add your API key to the .env file as follows:
-```sh
-GOOGLE_API_KEY="YOUR_API_KEY_HERE"
+    ```sh
+    GOOGLE_API_KEY="YOUR_API_KEY_HERE"
+    ```
 
 Replace "YOUR_API_KEY_HERE" with your actual key. A .gitignore file should be included in your repository to prevent this file from being accidentally committed.
 
 ### 4. Usage
 
 To run the multi-agent workflow, simply execute the main.py script from your terminal:
-```sh
-python main.py
+   ```sh
+   python main.py
+   ```
 
 You will see the agents interacting in real-time in your terminal, including their research, writing, and review steps. The final PRD and the review comments will be printed at the end of the process.
 
