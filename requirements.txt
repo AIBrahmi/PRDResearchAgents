@@ -1,0 +1,4 @@
+llama-index-llms-google-genai
+google-generativeai
+llama-index-agent-workflow
+python-dotenv
